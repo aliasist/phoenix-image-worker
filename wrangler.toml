@@ -1,0 +1,6 @@
+name = "phoenix-image-worker"
+main = "src/index.ts"
+compatibility_date = "2025-04-02"
+
+[ai]
+binding = "AI"
